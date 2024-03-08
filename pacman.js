@@ -1358,7 +1358,7 @@ function play(){
             clearInterval(juego);
         }
         
-    },15)//CORRE EL JUEGO, CHEQUEA LA COMIDA Y SENTENCIA LA WIN//
+    },15)
 }
 
 play();
